@@ -1,6 +1,6 @@
 # **VerifyIt 🔍**
 
-![Alt text](https://raw.githubusercontent.com/Offsideplayer24/repo/main/gamepage.jpg))
+![Alt text](./gamepage.jpg)
 
 > An adaptive web game that challenges you to spot AI-generated videos. Built with an EfficientNet-B0 transfer learning pipeline and a Streamlit frontend. You compete head-to-head against the model — after every guess, the game reveals the AI's prediction, its confidence level, and the ground truth.
 
